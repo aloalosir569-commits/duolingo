@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Duolingo Max Family Plan - 100% Free</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .bg-duo { background-color: #58cc02; }
+        .bg-duo-dark { background-color: #46a302; }
+        .text-duo { color: #58cc02; }
+        .shadow-duo { box-shadow: 0 5px 0 #46a302; }
+        .shadow-duo:active { box-shadow: 0 0 0 #46a302; transform: translateY(5px); }
+        .toast-hidden { transform: translateY(150%); opacity: 0; }
+        .toast-visible { transform: translateY(0); opacity: 1; }
+        @keyframes pulse-soft {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.03); }
+        }
+        .animate-pulse-soft { animation: pulse-soft 2s infinite; }
+    </style>
+</head>
+<body class="bg-[#131F24] font-sans text-slate-100 antialiased selection:bg-duo selection:text-white pb-20">
+
+    <main class="max-w-lg mx-auto bg-[#18262C] min-h-screen shadow-2xl sm:min-h-0 sm:mt-10 sm:rounded-2xl sm:mb-10 overflow-hidden border border-[#202F36]">
+        
+        <div class="pt-8 pb-4 px-6 text-center">
+            <!-- HNA_7OT_LINK_DYAL_LOGO -->
+            <img src="https://i.postimg.cc/FH1Hfcd4/images-20-removebg-preview.png" alt="Duolingo Logo" class="mx-auto h-14 mb-4 object-contain">
+            
+            <h1 class="text-3xl font-black text-white leading-tight tracking-tight mb-2">
+                Unlock <span class="text-duo">Duolingo Max</span> Family Account
+            </h1>
+            <div class="flex justify-center items-center gap-3 mt-3">
+                <span class="bg-red-950/60 text-red-400 border border-red-800/40 line-through px-3 py-1 rounded-full text-sm font-bold">$200.00/yr</span>
+                <span class="bg-emerald-950/60 text-emerald-400 border border-emerald-800/40 px-3 py-1 rounded-full text-sm font-bold animate-pulse-soft">100% FREE</span>
+            </div>
+        </div>
+
+        <div class="bg-rose-950/30 border-y border-rose-900/40 py-3 px-6 text-center">
+            <p class="text-rose-400 font-semibold text-sm flex justify-center items-center gap-2">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                Offer expires in: <span id="countdown" class="font-mono font-bold text-lg text-rose-300">05:00</span>
+            </p>
+        </div>
+
+        <div class="px-8 py-6">
+            <h2 class="text-sm font-bold text-slate-400 uppercase tracking-wider mb-4 text-center">What's Included</h2>
+            <ul class="space-y-3 text-slate-300 font-medium">
+                <li class="flex items-center gap-3">
+                    <div class="bg-emerald-950/80 border border-emerald-800/50 p-1 rounded-full text-duo">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
+                    </div>
+                    Add up to 5 Family Members
+                </li>
+                <li class="flex items-center gap-3">
+                    <div class="bg-emerald-950/80 border border-emerald-800/50 p-1 rounded-full text-duo">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
+                    </div>
+                    Unlimited Hearts & No Ads
+                </li>
+                <li class="flex items-center gap-3">
+                    <div class="bg-emerald-950/80 border border-emerald-800/50 p-1 rounded-full text-duo">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
+                    </div>
+                    New: AI Roleplay (Practice Conversations)
+                </li>
+            </ul>
+        </div>
+
+        <div class="px-6 pb-8 text-center border-b border-[#202F36]">
+            <a href="https://gglife.online/cl/i/n6ed3k" class="block w-full bg-duo hover:bg-duo-dark text-white font-bold text-xl py-4 px-6 rounded-2xl shadow-duo transition-all uppercase tracking-wide animate-pulse-soft">
+                Claim Access Now
+            </a>
+            <p class="text-xs text-slate-400 mt-4">Takes less than 2 minutes. Instant delivery.</p>
+        </div>
+
+        <div class="px-6 py-6 bg-[#131F24]">
+            <h3 class="font-bold text-slate-300 mb-4">Recent Activity (1,024 Comments)</h3>
+            
+            <div class="space-y-5">
+                <div class="flex gap-3">
+                    <img src="https://ui-avatars.com/api/?name=Sarah+J&background=random" alt="Avatar" class="w-10 h-10 rounded-full">
+                    <div>
+                        <div class="bg-[#202F36] p-3 rounded-2xl rounded-tl-none border border-[#2a3b44] shadow-sm">
+                            <h4 class="font-bold text-sm text-white">Sarah Jenkins</h4>
+                            <p class="text-sm text-slate-300 mt-1">Omg thank you! Just added my husband and kids to the family plan. Works perfectly in Texas! 🦉🔥</p>
+                        </div>
+                        <div class="flex gap-3 text-xs text-slate-400 mt-1 ml-2">
+                            <button class="font-semibold hover:text-slate-200">Like</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex gap-3">
+                    <img src="https://ui-avatars.com/api/?name=Michael+T&background=random" alt="Avatar" class="w-10 h-10 rounded-full">
+                    <div>
+                        <div class="bg-[#202F36] p-3 rounded-2xl rounded-tl-none border border-[#2a3b44] shadow-sm">
+                            <h4 class="font-bold text-sm text-white">Michael Tyler</h4>
+                            <p class="text-sm text-slate-300 mt-1">Was skeptical but the quick verification only took 2 mins. Fully upgraded my account to Max.</p>
+                        </div>
+                        <div class="flex gap-3 text-xs text-slate-400 mt-1 ml-2">
+                            <button class="font-semibold hover:text-slate-200">Like</button>
+                            <span class="text-duo font-bold">♥ 14</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex gap-3">
+                    <img src="https://ui-avatars.com/api/?name=Emily+R&background=random" alt="Avatar" class="w-10 h-10 rounded-full">
+                    <div>
+                        <div class="bg-[#202F36] p-3 rounded-2xl rounded-tl-none border border-[#2a3b44] shadow-sm">
+                            <h4 class="font-bold text-sm text-white">Emily Rodriguez</h4>
+                            <p class="text-sm text-slate-300 mt-1">The AI roleplay feature is amazing. Best giveaway ever!!</p>
+                        </div>
+                        <div class="flex gap-3 text-xs text-slate-400 mt-1 ml-2">
+                            <button class="font-semibold hover:text-slate-200">Like</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <div id="liveToast" class="fixed bottom-4 left-1/2 -translate-x-1/2 sm:left-6 sm:translate-x-0 w-[90%] sm:w-80 bg-[#202F36] p-3 rounded-xl shadow-2xl border-l-4 border-duo flex items-center gap-3 toast-hidden transition-all duration-500 z-50 border border-y-[#2a3b44] border-r-[#2a3b44]">
+        <div class="bg-emerald-950/80 border border-emerald-800/50 text-duo w-10 h-10 rounded-full flex items-center justify-center font-bold text-lg flex-shrink-0">
+            ✓
+        </div>
+        <div class="text-sm">
+            <p class="text-white"><strong id="toastName">James</strong> claimed an account!</p>
+            <p class="text-xs text-slate-400 mt-0.5">From <span id="toastCity">New York</span> • Just now</p>
+        </div>
+    </div>
+
+    <script>
+        let timeInSecs = 5 * 60;
+        const timerDisplay = document.getElementById("countdown");
+
+        setInterval(() => {
+            if (timeInSecs > 0) {
+                timeInSecs--;
+                let m = Math.floor(timeInSecs / 60).toString().padStart(2, '0');
+                let s = (timeInSecs % 60).toString().padStart(2, '0');
+                timerDisplay.textContent = `${m}:${s}`;
+            }
+        }, 1000);
+
+        const names = ["James", "Emily", "Michael", "Sarah", "David", "Jessica", "Daniel", "Ashley", "Robert", "Amanda", "Matthew", "Jennifer", "Andrew", "Elizabeth"];
+        const cities = ["New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia", "San Antonio", "San Diego", "Dallas", "Miami", "Austin", "Seattle"];
+
+        const toast = document.getElementById('liveToast');
+        const nameEl = document.getElementById('toastName');
+        const cityEl = document.getElementById('toastCity');
+
+        function popNotification() {
+            nameEl.textContent = names[Math.floor(Math.random() * names.length)];
+            cityEl.textContent = cities[Math.floor(Math.random() * cities.length)];
+            
+            toast.classList.remove('toast-hidden');
+            toast.classList.add('toast-visible');
+
+            setTimeout(() => {
+                toast.classList.remove('toast-visible');
+                toast.classList.add('toast-hidden');
+            }, 4500);
+        }
+
+        setTimeout(() => {
+            popNotification();
+            setInterval(() => {
+                setTimeout(popNotification, Math.random() * 5000);
+            }, 9000);
+        }, 3000);
+    </script>
+</body>
+</html>
